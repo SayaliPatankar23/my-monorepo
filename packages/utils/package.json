@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified right now.\" && exit 1"
+    "test": "echo \"Error: no test specified right now again.\" && exit 1"
   },
   "keywords": [],
   "author": "",
